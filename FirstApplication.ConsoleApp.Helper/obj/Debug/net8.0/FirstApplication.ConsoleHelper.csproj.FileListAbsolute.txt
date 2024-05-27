@@ -1,0 +1,4 @@
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp.Helper\obj\Debug\net8.0\FirstApplication.ConsoleHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp.Helper\obj\Debug\net8.0\FirstApplication.ConsoleHelper.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp.Helper\obj\Debug\net8.0\FirstApplication.ConsoleHelper.AssemblyInfo.cs
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp.Helper\obj\Debug\net8.0\FirstApplication.ConsoleHelper.csproj.CoreCompileInputs.cache

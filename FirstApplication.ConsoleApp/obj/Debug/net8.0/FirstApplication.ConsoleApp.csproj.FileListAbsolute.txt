@@ -1,0 +1,14 @@
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp\bin\Debug\net8.0\FirstApplication.ConsoleApp.exe
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp\bin\Debug\net8.0\FirstApplication.ConsoleApp.deps.json
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp\bin\Debug\net8.0\FirstApplication.ConsoleApp.runtimeconfig.json
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp\bin\Debug\net8.0\FirstApplication.ConsoleApp.dll
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp\bin\Debug\net8.0\FirstApplication.ConsoleApp.pdb
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp\obj\Debug\net8.0\FirstApplication.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp\obj\Debug\net8.0\FirstApplication.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp\obj\Debug\net8.0\FirstApplication.ConsoleApp.AssemblyInfo.cs
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp\obj\Debug\net8.0\FirstApplication.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp\obj\Debug\net8.0\FirstApplication.ConsoleApp.dll
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp\obj\Debug\net8.0\refint\FirstApplication.ConsoleApp.dll
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp\obj\Debug\net8.0\FirstApplication.ConsoleApp.pdb
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp\obj\Debug\net8.0\FirstApplication.ConsoleApp.genruntimeconfig.cache
+C:\Users\ПК\source\repos\FirstApplication\FirstApplication.ConsoleApp\obj\Debug\net8.0\ref\FirstApplication.ConsoleApp.dll
